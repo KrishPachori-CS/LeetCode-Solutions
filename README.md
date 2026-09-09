@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 ## Hash Table
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
