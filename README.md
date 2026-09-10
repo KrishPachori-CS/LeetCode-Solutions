@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
