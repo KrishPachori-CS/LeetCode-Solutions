@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 ## Stack
 |  |
 | ------- |
