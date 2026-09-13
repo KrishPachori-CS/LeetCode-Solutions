@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0728-self-dividing-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 ## Stack
 |  |
 | ------- |
