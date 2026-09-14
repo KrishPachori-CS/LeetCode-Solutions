@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1154-day-of-the-year](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0728-self-dividing-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1154-day-of-the-year](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 ## Stack
 |  |
 | ------- |
