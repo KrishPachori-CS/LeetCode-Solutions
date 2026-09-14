@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0999-available-captures-for-rook) |
