@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0728-self-dividing-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 ## Stack
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0999-available-captures-for-rook) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
