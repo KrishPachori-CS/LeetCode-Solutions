@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -94,4 +95,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
