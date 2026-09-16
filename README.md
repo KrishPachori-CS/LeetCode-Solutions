@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0383-ransom-note](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
