@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1207-unique-number-of-occurrences](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0999-available-captures-for-rook) |
+| [1207-unique-number-of-occurrences](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
