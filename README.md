@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
