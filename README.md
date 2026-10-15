@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1154-day-of-the-year](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
 | ------- |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
