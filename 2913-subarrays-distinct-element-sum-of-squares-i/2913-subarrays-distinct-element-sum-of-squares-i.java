@@ -9,8 +9,8 @@ class Solution {
                 for (int k = i; k <= j; k++) {
                     set.add(nums.get(k));
                 }
-
-                sum += set.size() * set.size();
+                int count = set.size();
+                sum += count * count;
             }
         }
 
