@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Euclidean Algorithm
 |  |
@@ -240,4 +244,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
