@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
@@ -146,16 +147,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -183,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -200,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -256,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
