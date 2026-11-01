@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0999-available-captures-for-rook) |
 | [1122-relative-sort-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Graph Theory
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
