@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
