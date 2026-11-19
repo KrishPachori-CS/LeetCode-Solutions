@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1154-day-of-the-year](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
+| [2716-minimize-string-length](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2716-minimize-string-length](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
