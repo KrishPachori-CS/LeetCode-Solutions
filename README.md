@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1154-day-of-the-year](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [2716-minimize-string-length](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2716-minimize-string-length](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0999-available-captures-for-rook) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Geometry
 |  |
 | ------- |
