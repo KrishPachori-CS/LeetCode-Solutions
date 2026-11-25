@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
+| [0739-daily-temperatures](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/KrishPachori-CS/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
